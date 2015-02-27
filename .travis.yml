@@ -1,4 +1,4 @@
-language: android
+language: java
 
 android:
   components:
@@ -26,8 +26,5 @@ branches:
 notifications:
   email: false
 
-sudo: false
 
-cache:
-  directories:
-    - $HOME/.gradle
+
