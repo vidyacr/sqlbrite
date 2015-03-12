@@ -23,8 +23,7 @@ branches:
   except:
     - gh-pages
 
-notifications:
-  email: false
+
 
 
 
